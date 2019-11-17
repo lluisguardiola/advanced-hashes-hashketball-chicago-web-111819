@@ -264,7 +264,7 @@ def long_name_steals_a_ton?
       end
     end
   end
-  player_with_most_steals == player_with_longest_name
+  return player_with_most_steals == player_with_longest_name
 end 
 
 
